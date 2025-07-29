@@ -1,4 +1,3 @@
-# My-Projects-
 #  My Project Portfolio
 
 Welcome to my personal portfolio of projects. Below is a list of AI, web, and tech projects I’ve worked on.
